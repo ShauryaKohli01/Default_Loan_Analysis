@@ -1,0 +1,6 @@
+LoanStatNew,Description
+Fully Paid,Loan has been fully paid
+Charged Off,Loan was charged off as default
+Current,Loan is currently being paid
+Late,Loan is late on payments
+Default,Loan is in default
